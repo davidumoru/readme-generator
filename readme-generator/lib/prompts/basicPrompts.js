@@ -14,7 +14,7 @@ module.exports = [
   {
     type: "input",
     name: "installation",
-    message: "What are the installation steps?",
+    message: "How do you install the project?",
     default: "npm install",
   },
   {
