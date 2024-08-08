@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "bin/index.js",
   "bin": {
-    "readme-generator": "bin/index.js"
+    "readme-oz": "bin/index.js"
   },
   "directories": {
     "lib": "lib"
