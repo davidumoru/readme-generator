@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "bin": {
+    "readme-generator": "./bin/index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/index.js"
+  },
+  "keywords": [
+    "readme",
+    "readme-generator",
+    "CLI"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "A CLI tool that generates a well-structured README file for your projects.",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
