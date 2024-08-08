@@ -1,5 +1,5 @@
 {
-  "name": "readme-generator",
+  "name": "readme-oz",
   "version": "1.0.0",
   "main": "bin/index.js",
   "bin": {
